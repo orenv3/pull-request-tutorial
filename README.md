@@ -15,9 +15,7 @@ The following demonstrate how to create an API for retrieval of customer credit 
 - Test the connectivity and data retrieval from the **Mainframe CICS Program**.
 - Creation of an API Project on the top of your SDK Project.
   
-## Demo Resources
-
-- [FININQ2.cbl](./resources/FININQ2.cbl)
+![This PIC](createDockerProject.png)
 
 ## Step 1 – Create a New SDK Project
 
@@ -140,7 +138,7 @@ test_fininq2Test_usecase_2.output
 6. Run the JUnit by Right Clicking on `Fininq2Test.java` → Run As → JUnit Tests (or press **F11**).
 7. Check that the JUnit test runs without errors.
 
-![How to create JUnit test](/docs/assets/mainframe/mainframe-cics-ol-adapter/JUnit1usecase.gif)
+![This PIC](createDockerProject.JPG.png)
 
 ## Step 4 – Create APIs from SDK
 
